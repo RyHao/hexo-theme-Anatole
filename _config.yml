@@ -1,13 +1,16 @@
-keywords: Hexo,HTML,Ben,CSS,安卓,android,Linux,linuxdeepin
-author: Ben Wong,wenbinben@gmail.com
-description: Nothing lasts forever.
-avatar: https://secure.gravatar.com/avatar/e71df8021446fe9759a9928b1dd5c28d?s=180&r=G&d=
+keywords: Hexo,HTML,CSS,JS,JavaScript,React,Front-End
+author: Ryan Lu,ryhao.tw@gmail.com
+description: Excelsior
+avatar: /uploads/avatar.jpg
 
-twitter: Ben_wenbin
-rss: atom.xml
-weibo: ben0036
-instagram: hwbinbenben
+# Social Links Icons
+facebook: ryanhclu
+twitter: RyanHCLu
+github: RyHao
 
 # Comment
 duoshuo:
-disqus:
+disqus: ryanlugp
+
+# Google Analytics
+google_analytics: UA-46467226-3
